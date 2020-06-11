@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.doghut_virtualcam-13594126.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Projects/VirtualCamera_clean/Doghut_VirtualCam_forGit/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Doghut_VirtualCam-13594126 [UE Editor]"
+				}
+			}
+		}
+	]
+}
